@@ -19504,7 +19504,7 @@ n=new A.dg(t.cj)
 n.n(0,"text",a)
 p=t.bD
 s=3
-return A.X(A.ay5(o,B.aD.ID(n,null),A.az(["Content-Type","application/json","Access-Control-Allow-Origin","*","http-equiv","Content-Security-Policy","content","upgrade-insecure-requests"],p,p)),$async$Q2)
+return A.X(A.ay5(o,B.aD.ID(n,null),A.az(["Content-Type","application/json","Access-Control-Allow-Origin","*"],p,p)),$async$Q2)
 case 3:q=c
 s=1
 break
